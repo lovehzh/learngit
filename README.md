@@ -46,16 +46,28 @@ ssh-add
 ## nano 常用命令
 
 Ctrl + O     保存文件
+
 Ctrl + X     退出编辑器
+
 Ctrl + K     剪切行
+
 Ctrl + U     粘贴
+
 Ctrl + /       替换
+
 Ctrl + W    查找
+
 Ctrl + Y     上一屏幕
+
 Ctrl + V     下一屏幕
+
 Ctrl + P     向上移动一行
+
 Ctrl + N     向下移动一行
+
 Ctrl + F     向前移动光标一格
+
 Ctrl + B     向后移动光标一格
+
 Ctrl + G     调用帮助菜单
 
